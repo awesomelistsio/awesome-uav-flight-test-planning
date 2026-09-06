@@ -34,7 +34,6 @@ UAV Flight Test Planning is critical for ensuring safety, reliability, and regul
 ## Checklists & Templates
 
 - [UAV Pre-Flight Checklist Example](https://uavcoach.com/drone-preflight-checklist/) — Sample checklist for operational UAV flights.
-- [MIT Lincoln Laboratory UAS Test Plan Template](https://www.ll.mit.edu/r-d/publications/uas-flight-test-planning-template) — Structured template for UAV test plans.
 - [DIY Drones Pre-Flight Planning Checklist](https://diydrones.com/profiles/blogs/pre-flight-checklist-for-uavs) — Community-generated checklist.
 
 ## Regulatory Resources
